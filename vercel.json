@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/v3", "destination": "/animated_doc.html" },
+    { "source": "/v3/", "destination": "/animated_doc.html" }
+  ]
+}
